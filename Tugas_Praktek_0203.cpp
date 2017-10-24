@@ -9,5 +9,5 @@ int main (){
 	double ounce=1/ton;
 	double beratTon=berat*ounce;
 	
-	cout << beratTon<<end1;
+	cout << beratTon<<endl;
 }
